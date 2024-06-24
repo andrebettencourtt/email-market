@@ -12,7 +12,7 @@ body {
 }
 
 .contact-container {
-  width: 80%;
+  width: 50%;
   height: auto;
   margin: auto;
   display: flex;
@@ -81,7 +81,7 @@ body {
 }
 
 .contact-form-btn {
-  width: 100%;
+  width: 95%;
   border: none;
   outline: none;
   border-radius: 50px;
@@ -89,7 +89,7 @@ body {
   color: #fff;
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 16px;
+  font-size: 1rem;
   padding: 10px 0;
   cursor: pointer;
 }
